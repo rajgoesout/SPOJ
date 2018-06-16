@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/EXPECT/
 #include <iostream>
 using namespace std;
 
