@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/SMPWOW/
 #include <iostream>
 using namespace std;
 
