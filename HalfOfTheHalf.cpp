@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/STRHH/
 #include <iostream>
 #include <cstring>
 using namespace std;
