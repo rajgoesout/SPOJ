@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/SMPSUM/
 #include <iostream>
 using namespace std;
 
