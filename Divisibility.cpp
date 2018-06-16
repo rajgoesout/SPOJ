@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/SMPDIV/
 #include <iostream>
 using namespace std;
 
