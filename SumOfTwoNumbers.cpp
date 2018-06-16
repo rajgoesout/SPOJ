@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/CHITEST1/
 #include <iostream>
 using namespace std;
 
