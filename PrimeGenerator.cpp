@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/PRIME1/
 #include <iostream>
 using namespace std;
 
